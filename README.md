@@ -3,7 +3,7 @@
 ## Week 2: Development Environment and First Java Program
 
 ### Student Information
-- Name: Alumona Chuckwuebube Goodluck
+- Name: Alumona Chukwudiebube Goodluck
 - Matriculation 25/17837
 - Programme: Software Engineering
 - Course: COS 201
